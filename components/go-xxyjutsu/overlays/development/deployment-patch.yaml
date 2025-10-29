@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscui/go-xxyjutsu:2b2f80b9aa0d66637d5ebdaba33dbf7713985cd2@sha256:0cd7dce872a4f40b094cbaaf499b2b360da9d25a80afb97bea59a09e5640f66a
+        - image: quay.io/tsscui/go-xxyjutsu:f60a2d2328d4c818e0653cde5866722722381517@sha256:b036de490e00984c8b0a543c240834da4e8aed02f37db82ebce84c0c7a3e2a73
           name: container-image
